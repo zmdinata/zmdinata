@@ -32,7 +32,7 @@ I am an Information Systems student at **STMIK IKMI Cirebon** (Class of 2028) wi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,pandas,scikitlearn,git,github,vscode,postgres,mysql,linux,docker&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,anaconda,git,github,vscode,postgres,mysql,linux,docker&perline=6" />
   </a>
 </p>
 
