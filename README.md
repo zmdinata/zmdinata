@@ -1,7 +1,13 @@
 # Hi there, I'm Zacky! 👋  
 
+<p align="center">
+  <a href="https://github.com/zmdinata">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=39C5BB&height=220&section=header&text=ZACKY%20MUHAMMAD%20DINATA&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Information%20Systems%20Student%20%7C%20AI%20Engineer%20in%20Progress&descSize=20&descAlignY=67&animation=fadeIn" alt="Capsule Header" width="100%" />
+  </a>
+</p>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39C5BB&center=true&vCenter=true&width=500&height=50&lines=Information+Systems+Student;Aspiring+AI+Engineer;Web3+Developer+%26+Illustrator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39C5BB&center=true&vCenter=true&width=500&height=50&lines=STMIK+IKMI+Cirebon;IBM+SkillsBuild+AI+Scholar;Web3+%26+Creative+Tech+Developer;Building+Autonomous+AI+Agents" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -32,6 +38,14 @@ I am an Information Systems student at **STMIK IKMI Cirebon** (Class of 2028) wi
 
 ---
 
+### 🏆 Featured Project
+#### [A2Z Agentz: Autonomous Web3 Scavenger](https://lablab.ai/submissions/bii9v86ywzxi6xyyxbte942o)
+A dual-brain AI agent system purpose-built for the AMD-powered Web3 stack, targeting the Base network:
+* **Agent A (The Scout):** Powered by `Meta-Llama-3.1-8B-Instruct-AWQ` run locally on AMD Instinct MI300X via vLLM. Scrapes DexScreener & Farcaster to score opportunities.
+* **Agent B (The Vault):** Powered by `DeepSeek V4 Pro` & `Llama-3.3-70B` to execute secure, spend-capped ($2.00/tx) on-chain actions.
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -51,11 +65,14 @@ I am an Information Systems student at **STMIK IKMI Cirebon** (Class of 2028) wi
 
 ---
 
-### 🏆 Featured Project
-#### [A2Z Agentz: Autonomous Web3 Scavenger](https://lablab.ai/submissions/bii9v86ywzxi6xyyxbte942o)
-A dual-brain AI agent system purpose-built for the AMD-powered Web3 stack, targeting the Base network:
-* **Agent A (The Scout):** Powered by `Meta-Llama-3.1-8B-Instruct-AWQ` run locally on AMD Instinct MI300X via vLLM. Scrapes DexScreener & Farcaster to score opportunities.
-* **Agent B (The Vault):** Powered by `DeepSeek V4 Pro` & `Llama-3.3-70B` to execute secure, spend-capped ($2.00/tx) on-chain actions.
+### 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zmdinata/zmdinata/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zmdinata/zmdinata/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zmdinata/zmdinata/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
