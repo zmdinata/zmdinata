@@ -1,5 +1,3 @@
-# Hi there, I'm Zacky! 👋  
-
 <p align="center">
   <a href="https://github.com/zmdinata">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=39C5BB&height=220&section=header&text=ZACKY%20MUHAMMAD%20DINATA&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Information%20Systems%20Student%20%7C%20AI%20Engineer%20in%20Progress&descSize=20&descAlignY=67&animation=fadeIn" alt="Capsule Header" width="100%" />
