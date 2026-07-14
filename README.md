@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi there, I'm Zacky! 👋  
 
-<!--
-**zmdinata/zmdinata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39C5BB&center=true&vCenter=true&width=500&height=50&lines=Information+Systems+Student;Aspiring+AI+Engineer;Web3+Developer+%26+Illustrator" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://zmdinata.web.id"><b>🌐 Personal Website</b></a> •
+  <a href="https://id.linkedin.com/in/zacky-muhammad-dinata-463995280"><b>💼 LinkedIn</b></a> •
+  <a href="https://lablab.ai/u/@zacky_muhammad_dinata439"><b>🏆 Hackathons</b></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+I am an Information Systems student at **STMIK IKMI Cirebon** (Class of 2028) with one clear destination: building intelligent systems as an **AI Engineer**. 
+
+* 🌟 Selected as an **IBM SkillsBuild AI Scholar** (Feb 2026).
+* 🤖 Active AI hackathon competitor — recently built **A2Z Agentz** (Autonomous Web3 Scavenger on AMD infrastructure) for the *AMD Developer Hackathon: ACT II*.
+* 🎨 Creative background: completed 60+ freelance digital illustrations and NFT artworks before shifting full focus to Machine Learning & Web3.
+* 📝 Currently writing a machine learning research paper targeting **SINTA 2+** standards, exploring the behavioral impact of social media.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,pandas,scikitlearn,git,github,vscode,postgres,mysql,linux,docker&perline=6" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-stats-extended.vercel.app/api?username=zmdinata&show_icons=true&theme=tokyonight&count_private=true" alt="Zacky's GitHub Stats" height="180" />
+      </td>
+      <td>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zmdinata&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=zmdinata&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🏆 Featured Project
+#### [A2Z Agentz: Autonomous Web3 Scavenger](https://lablab.ai/submissions/bii9v86ywzxi6xyyxbte942o)
+A dual-brain AI agent system purpose-built for the AMD-powered Web3 stack, targeting the Base network:
+* **Agent A (The Scout):** Powered by `Meta-Llama-3.1-8B-Instruct-AWQ` run locally on AMD Instinct MI300X via vLLM. Scrapes DexScreener & Farcaster to score opportunities.
+* **Agent B (The Vault):** Powered by `DeepSeek V4 Pro` & `Llama-3.3-70B` to execute secure, spend-capped ($2.00/tx) on-chain actions.
+
+---
+
+<p align="center">
+  <i>"I believe the best engineers are not just technically sharp. They think critically and build things that actually matter."</i>
+</p>
