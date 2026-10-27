@@ -1,25 +1,36 @@
 <p align="center">
   <a href="https://github.com/zmdinata">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=39C5BB&height=220&section=header&text=ZACKY%20MUHAMMAD%20DINATA&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineer%20%7C%20Autonomous%20Systems%20%26%20Quant%20Risk%20Architect&descSize=18&descAlignY=67&animation=fadeIn" alt="Zacky Muhammad Dinata Header Banner" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=39C5BB&height=220&section=header&text=ZACKY%20MUHAMMAD%20DINATA&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineer%20and%20Autonomous%20Systems%20Architect&descSize=20&descAlignY=67&animation=fadeIn" alt="ZACKY MUHAMMAD DINATA" width="100%" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=39C5BB&center=true&vCenter=true&width=560&height=50&lines=AI+Engineer+%26+Autonomous+Multi-Agent+Architect;IBM+SkillsBuild+AI+Scholar+Cohort;Quant+Risk+Agent+(Alpaca+AI+Hackathon);Self-Hosted+Agent-Z+Homelab+on+Linux;Published+ML+Researcher+(SISFOTEK+2026)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=39C5BB&center=true&vCenter=true&width=520&height=45&lines=AI+Engineer+and+Multi-Agent+Architect;IBM+SkillsBuild+AI+Scholar;Quant+Risk+Agent+(Alpaca+Hackathon);Autonomous+Systems+and+Applied+ML" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://zmdinata.web.id"><img src="https://img.shields.io/badge/Portfolio-zmdinata.web.id-39C5BB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/zacky-muhammad-dinata-463995280/"><img src="https://img.shields.io/badge/LinkedIn-Zacky%20Dinata-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:zmdinata@gmail.com"><img src="https://img.shields.io/badge/Email-zmdinata%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://lablab.ai/u/@zacky_muhammad_dinata439"><img src="https://img.shields.io/badge/Hackathons-2x%20Verified%20Cert-181717?style=for-the-badge&logo=target&logoColor=39C5BB" alt="Lablab Hackathons" /></a>
+  <a href="https://zmdinata.web.id">
+    <img src="https://img.shields.io/badge/Portfolio-zmdinata.web.id-39C5BB?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/zacky-muhammad-dinata-463995280/">
+    <img src="https://img.shields.io/badge/LinkedIn-Zacky%20Dinata-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:zmdinata@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zmdinata%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://lablab.ai/u/@zacky_muhammad_dinata439">
+    <img src="https://img.shields.io/badge/Hackathons-2x%20Cert-111111?style=flat-square&logo=target&logoColor=39C5BB" alt="Hackathons" />
+  </a>
 </p>
 
 ---
 
 ### ⚡ About Me
 
-I am an **AI Engineer & Systems Architect** specializing in autonomous multi-agent systems, intelligent model routing, and applied machine learning. With a background bridging creative design and engineering, I focus on building resilient, resource-efficient AI workflows that bridge theoretical research into production-grade systems.
+I am an **AI Engineer & Systems Architect** specializing in autonomous multi-agent systems, intelligent model routing, and applied machine learning. With a background bridging creative design and technical engineering, I focus on building resilient, resource-efficient AI workflows that bridge theoretical research into production-grade systems.
 
 - 🌟 **IBM SkillsBuild AI Scholar:** Completed an intensive 6-month AI Engineering specialization covering full-lifecycle ML/DL systems and end-to-end architectures.
 - 🤖 **Multi-Agent Orchestration:** Architect of **Agent-Z Homelab**, a 24/7 self-hosted Linux server orchestrating autonomous sub-agents (Hermes Agent & OpenClaw) with dynamic proxy routing (9Router) and zero cloud idle costs.
