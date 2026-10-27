@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Email-zmdinata%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://lablab.ai/u/@zacky_muhammad_dinata439">
+  <a href="https://lablab.ai/u/@zmdinata">
     <img src="https://img.shields.io/badge/Hackathons-2x%20Cert-111111?style=flat-square&logo=target&logoColor=39C5BB" alt="Hackathons" />
   </a>
 </p>
