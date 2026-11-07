@@ -118,10 +118,10 @@ I am an **AI Engineer & Systems Architect** specializing in autonomous multi-age
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=zmdinata&show_icons=true&theme=tokyonight&border_color=39C5BB&title_color=39C5BB&icon_color=39C5BB&count_private=true" alt="Zacky's GitHub Stats" height="175" />
+        <img src="https://github-stats-extended.vercel.app/api?username=zmdinata&show_icons=true&theme=tokyonight&border_color=39C5BB&title_color=39C5BB&icon_color=39C5BB&count_private=true" alt="Zacky's GitHub Stats" height="175" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmdinata&layout=compact&theme=tokyonight&border_color=39C5BB&title_color=39C5BB" alt="Top Languages" height="175" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zmdinata&layout=compact&theme=tokyonight&border_color=39C5BB&title_color=39C5BB" alt="Top Languages" height="175" />
       </td>
     </tr>
   </table>
